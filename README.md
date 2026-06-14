@@ -23,4 +23,5 @@ https://d1jxvsqaewcsr5.cloudfront.net
 - Total: $0/month on free tier
 
 ## Architecture Diagram
-(Coming soon)
+## Architecture Diagram
+![Architecture Diagram](architecture-diagram.png)
